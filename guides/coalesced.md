@@ -17,4 +17,12 @@ Make sure to place the tool inside the same folder as your coalesced.
 3. For input file name, type `coalesced.ini`
 4. For output file name, type `coalesced.txt`
 
-If done correctly, a new text file should appear in the folder.
+![](/media/coalesced_decoding.png)
+
+### Editing
+If decoded correctly, a new text file should appear in the folder. This can be opened in any text editor such as notepad.
+
+> [!WARNING]
+> For Rise of the Dark Spark, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally open and save changes to it in regular Notepad, decode the .ini again.
+
+### Encoding
