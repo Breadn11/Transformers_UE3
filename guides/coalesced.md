@@ -9,7 +9,7 @@ On PC, it can be found inside `game folder\TransGame\Config\PC\Cooked`
 
 In order to view and edit the coalesced, it must first be decoded using [this tool](https://community.pcgamingwiki.com/files/file/547-tf-games-configuration-utility/). 
 
-Make sure to place the tool inside the same folder as your coalesced.
+Make sure to place it inside the same folder as your coalesced.
 
 ### Decoding
 1. Open **TFGames_Util_4.0**  
@@ -23,6 +23,6 @@ Make sure to place the tool inside the same folder as your coalesced.
 If decoded correctly, a new text file should appear in the folder. This can be opened in any text editor such as notepad.
 
 > [!WARNING]
-> For Rise of the Dark Spark, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally open and save changes to it in regular Notepad, decode the .ini again.
+> For Rise of the Dark Spark, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally save changes to it in regular Notepad, decode the .ini again.
 
 ### Encoding
