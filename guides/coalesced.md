@@ -18,5 +18,3 @@ Make sure to place the tool inside the same folder as your coalesced.
 4. For output file name, type `coalesced.txt`
 
 If done correctly, a new text file should appear in the folder.
-
-![](/media/coalesced_decoding.png)
