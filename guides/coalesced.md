@@ -13,7 +13,7 @@ Make sure to place the tool inside the same folder as your coalesced.
 
 ### Decoding
 1. Open **TFGames_Util_4.0**  
-2. For operation, type `D`
+2. Type `D`
 3. For input file name, type `coalesced.ini`
 4. For output file name, type `coalesced.txt`
 
