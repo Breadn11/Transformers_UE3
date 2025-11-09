@@ -11,4 +11,4 @@ These four games are built off of the same underlying structure, so the guides h
 If you have any questions or feedback, feel free to join the [Transformers Modding Server](https://discord.gg/wYZ77yg7ae) or send me a message directly on Discord @ .breadn
 
 ## Basics
-- [Editing the Coalesced.ini](./guides/coalesced.md)
+- [Coalesced.ini](./guides/coalesced.md)
