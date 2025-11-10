@@ -13,16 +13,23 @@ Make sure to place it inside the same folder as your coalesced.
 
 ### Decoding
 1. Open **TFGames_Util_4.0**  
-2. Type `D`
+2. Type `d`
 3. For input file name, type `coalesced.ini`
 4. For output file name, type `coalesced.txt`
 
 ![](/media/coalesced_decoding.png)
 
 ### Editing
-If decoded correctly, a new text file should appear in the folder. This can be opened in any text editor such as notepad.
+If decoded correctly, a new text file should appear in the folder. For WFC and FOC, this can be opened in any text editor such as notepad and edited from there.
 
-> [!WARNING]
-> For Rise of the Dark Spark, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally save changes to it in regular Notepad, decode the .ini again.
+However for ROTDS, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally save changes to it in regular Notepad, delete the text file and decode the .ini again.
+
+Once you're done editing, you must re-encode it for the game to read your changes.
 
 ### Encoding
+1. Open **TFGames_Util_4.0**  
+2. Type `e`
+3. For input file name, type `coalesced.txt`
+4. For output file name, type `coalesced.ini`
+
+![](/media/coalesced_encoding.png)
