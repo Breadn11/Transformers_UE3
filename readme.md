@@ -12,4 +12,4 @@ If you have any questions or feedback, feel free to join the [Transformers Moddi
 # Guides
 
 ### Basics
-- [How to Edit the Coalesced.ini](./guides/coalesced.md)
+- [How to edit the Coalesced.ini](./guides/coalesced.md)
