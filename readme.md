@@ -7,7 +7,6 @@ This is a collection of modding guides for the Unreal Engine 3 (UE3) Transformer
 
 These four games are built off of the same underlying structure, so the guides here are applicable to all of them unless otherwise specified. 
 
-### Contact
 If you have any questions or feedback, feel free to join the [Transformers Modding Server](https://discord.gg/wYZ77yg7ae) or send me a message directly on Discord @ .breadn
 
 # Guides
