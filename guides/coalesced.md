@@ -24,7 +24,7 @@ If decoded correctly, a new text file should appear in the folder. For WFC and F
 
 However for ROTDS, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally save changes to it with regular Notepad, delete the text file and decode the .ini again.
 
-Once you're done editing, you must re-encode it for the game to read your changes.
+After editing, you must re-encode it for the game to read your changes.
 
 ### Encoding
 1. Open **TFGames_Util_4.0**  
@@ -33,3 +33,5 @@ Once you're done editing, you must re-encode it for the game to read your change
 4. For output file name, type `coalesced.ini`
 
 ![](/media/coalesced_encoding.png)
+
+Once done, you can launch the game as normal and your changes will be applied.
