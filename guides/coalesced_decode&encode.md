@@ -3,10 +3,10 @@ The coalesced.ini is an encoded configuration file that contains settings and ob
 
 On PC, it can be found inside `game folder\TransGame\Config\PC\Cooked`
 
-## Decoding & Encoding
 > [!WARNING]
 > Before making any changes, make a backup of your coalesced in another folder!
 
+## Decoding & Encoding
 In order to view and edit the coalesced, it must first be decoded using [this tool](https://community.pcgamingwiki.com/files/file/547-tf-games-configuration-utility/). 
 
 Make sure to place it inside the same folder as your coalesced.
