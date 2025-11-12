@@ -12,5 +12,5 @@ If you have any questions or feedback, feel free to join the [Transformers Moddi
 # Guides
 
 ### Basic
-- [Coalesced - Brief Introduction, Decoding & Encoding](./guides/coalesced_decode&encode.md)
+- [Coalesced - Brief Introduction & Decoding/Encoding](./guides/coalesced_decode&encode.md)
 - [Coalesced - Custom Binds (Console Commands)](./guides/coalesced_binds.md)
