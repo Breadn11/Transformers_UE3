@@ -2,7 +2,7 @@
 Due to the games having their developer consoles stripped, adding custom keybindings (or "binds" for short) in the Coalesced is the most common way to use console commands. 
 
 > [!TIP]
-> Before continuing, make sure you've read [this guide](./guides/coalesced_decode&encode.md) on how to edit the coalesced!
+> Before continuing, make sure you've read [this guide](./coalesced_decode&encode.md) on how to edit the coalesced!
 
 ## How to Add Binds to the Coalesced
 Open the coalesced text file, and search (Ctrl + F) for `Engine.PlayerInput`
