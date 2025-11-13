@@ -24,7 +24,7 @@ Make sure to place it inside of the same folder as your coalesced.
 ### Editing
 If decoded correctly, a new text file should appear in the folder. For WFC and FOC, this can be opened in any text editor such as Notepad and edited from there.
 
-However for ROTDS, the text file **must** be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally save changes to it with regular Notepad, delete the text file and decode the .ini again.
+However for ROTDS, the text file <ins>must</ins> be opened in [Notepad++](https://notepad-plus-plus.org/downloads/) to prevent corruption. If you accidentally save changes to it with regular Notepad, delete the text file and decode the .ini again.
 
 After editing, you must re-encode it for the game to read your changes.
 
