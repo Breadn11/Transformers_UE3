@@ -7,6 +7,10 @@ Due to the games having their developer consoles stripped, adding custom keybind
 ## How to Add Binds to the Coalesced
 Open the coalesced text file, and search (Ctrl + F) for `Engine.PlayerInput`
 
-A few lines below, you should see a bunch of entries starting with `Bindings=`. You can add your binds here with the default ones.
+A few lines below, you should see a bunch of entries starting with `Bindings=`. You can add your binds here with the default ones. 
+
+I recommend placing them above the existing binds like this for organization and ease of access.
 
 ![](/media/coalesced_bind_invert.png)
+
+## List of Binds
