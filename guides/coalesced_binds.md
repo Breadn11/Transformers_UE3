@@ -9,6 +9,4 @@ Open the coalesced text file, and search (Ctrl + F) for `Engine.PlayerInput`
 
 A few lines below, you should see a bunch of entries starting with `Bindings=`. You can add your binds here with the default ones.
 
---
-
-![](/media/coalesced_bind.png)
+![](/media/coalesced_bind_invert.png)
