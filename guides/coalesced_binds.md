@@ -26,4 +26,19 @@ I recommend placing them above the existing binds like this for organization and
 
 # List of Console Commands
 
-`qdwqdwdq`
+<details>
+<summary>SwitchLevel</summary>
+
+### Description
+Switches the current level to whichever is specified in the command. It must be a base file.
+
+### Examples
+`SwitchLevel A1_IAC_Base_m`
+
+`SwitchLevel MP_ESC_BrokenHope_BASE_m`
+
+`SwitchLevel L03b_CutAndRun_BASE_m`
+
+`SwitchLevel L09_Credits_BASE_m`
+
+</details>
