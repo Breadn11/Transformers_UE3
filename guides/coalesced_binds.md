@@ -29,10 +29,10 @@ I recommend placing them above the existing binds like this for organization and
 <details>
 <summary>ChangeSize</summary>
 
-### Description
-Changes your character's scale to the set multiplier.
+#### Description
+Changes your character's scale to the specified multiplier.
 
-### Examples
+#### Examples
 `ChangeSize 0.5`
 
 `ChangeSize 1`
@@ -42,12 +42,35 @@ Changes your character's scale to the set multiplier.
 </details>
 
 <details>
+<summary>FOV</summary>
+
+#### Description
+Changes your FOV to the specified value. Setting it higher than 119 breaks aiming down sights.
+
+#### Examples
+`FOV 50`
+
+`FOV 90`
+
+`FOV 120`
+- - -
+</details>
+
+<details>
+<summary>ShowHUD</summary>
+
+#### Description
+Toggles the HUD on and off.
+- - -
+</details>
+
+<details>
 <summary>SwitchLevel</summary>
 
-### Description
+#### Description
 Switches the current level to whichever is specified in the command. It must be a base file.
 
-### Examples
+#### Examples
 `SwitchLevel A1_IAC_Base_m`
 
 `SwitchLevel MP_ESC_BrokenHope_BASE_m`
