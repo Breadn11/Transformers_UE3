@@ -1,4 +1,4 @@
-# Binds
+## Binds
 Due to the games having their developer consoles stripped, adding custom keybindings (or "binds" for short) in the Coalesced is the most common way to use console commands. 
 
 > [!TIP]
@@ -24,7 +24,22 @@ I recommend placing them above the existing binds like this for organization and
 
 ![](/media/coalesced_bind_invert.png)
 
-# List of Console Commands
+## List of Console Commands
+
+<details>
+<summary>ChangeSize</summary>
+
+### Description
+Changes your character's scale to the set multiplier.
+
+### Examples
+`ChangeSize 0.5`
+
+`ChangeSize 1`
+
+`ChangeSize 2`
+- - -
+</details>
 
 <details>
 <summary>SwitchLevel</summary>
@@ -40,5 +55,5 @@ Switches the current level to whichever is specified in the command. It must be 
 `SwitchLevel L03b_CutAndRun_BASE_m`
 
 `SwitchLevel L09_Credits_BASE_m`
-
+- - -
 </details>
