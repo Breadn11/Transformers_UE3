@@ -45,7 +45,7 @@ Changes your character's scale to the specified multiplier.
 <summary>FOV</summary>
 
 #### Description
-Changes your FOV to the specified value. Setting it higher than 119 breaks aiming down sights.
+Changes your field of view to the specified value. Breaks aiming down sights.
 
 #### Examples
 `FOV 50`
@@ -53,6 +53,14 @@ Changes your FOV to the specified value. Setting it higher than 119 breaks aimin
 `FOV 90`
 
 `FOV 120`
+- - -
+</details>
+
+<details>
+<summary>God</summary>
+
+#### Description
+Makes you (mostly) invincible.
 - - -
 </details>
 
